@@ -1981,15 +1981,15 @@
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
   <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
-  <property name="kdenlive:docproperties.renderrescale">0</property>
-  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
-  <property name="kdenlive:docproperties.renderrescalewidth">960</property>
+  <property name="kdenlive:docproperties.renderrescale">1</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">720</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">1280</property>
   <property name="kdenlive:docproperties.renderspeed">6</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">rendered/trailer1.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">rendered/trailer720p.mp4</property>
   <property name="xml_retain">1</property>
   <entry in="00:00:00.000" out="00:15:55.033" producer="chain9"/>
   <entry in="00:00:00.000" out="00:00:02.050" producer="chain10"/>
